@@ -1,0 +1,30 @@
+.profile {
+  text-align: center;
+  background-color: black;
+  color: aliceblue;
+  font-weight: 800;
+  font-family:"cursive";
+  
+}
+.pic{
+  border-radius: 200px;
+}
+.but1{
+  margin: 10PX;
+  height: 50px;
+}
+.but2{
+  margin: 10PX;
+  height: 50px;
+}
+.but3{
+  margin: 10PX;
+  height: 50px;
+}
+.parag{
+  background-color: aliceblue;
+  color: black;
+  width: 300px;
+  height: 100px;
+  border-radius: 10px;
+}
